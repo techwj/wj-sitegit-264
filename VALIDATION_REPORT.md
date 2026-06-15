@@ -1,0 +1,136 @@
+# Validation Report - lunch-break-quick-relax
+
+Generated: 2026-06-05T14:20:10.359651
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Beginner Lunch Break Quick Relax for Beginners: From Beginner to Expert
+- ✓ Article word count OK: The Ultimate Guide to Future of Beginner Lunch Break Quick Relax
+- ✓ Article word count OK: The Hidden Secrets of Beginner Lunch Break Quick Relax in 2026: Current Trends
+- ✓ Article word count OK: Beginner Lunch Break Quick Relax Tips and Best Practices: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Future of Advanced Beginner Lunch Break Quick Relax Techniques: What to Expect
+- ✓ Article word count OK: The Best Resources for Beginner Lunch Break Quick Relax in 2026: Current Trends
+- ✓ Article word count OK: Essential Beginner Lunch Break Quick Relax Techniques You Should Know
+- ✓ Article word count OK: Everything You Need to Know About Beginner Lunch Break Quick Relax
+- ✓ Article word count OK: The Hidden Secrets of Beginner Lunch Break Quick Relax Tips and Best Practices
+- ✓ Article word count OK: Understanding The History of Beginner Lunch Break Quick Relax: A Deep Dive
+- ✓ Article word count OK: Common Mistakes in Beginner Lunch Break Quick Relax: From Beginner to Expert
+- ✓ Article word count OK: Common Mistakes in Beginner Lunch Break Quick Relax 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Beginner Lunch Break Quick Relax for Beginners: What to Expect
+- ✓ Article word count OK: Exploring the World of Beginner Lunch Break Quick Relax: Everything You Need to Know
+- ✓ Article word count OK: The Ultimate Guide to Beginner Lunch Break Quick Relax: Everything You Need to Know
+- ✓ Article word count OK: Beginner Lunch Break Quick Relax: Everything You Need to Know: From Beginner to Expert
+- ✓ Article word count OK: Exploring the World of Beginner Lunch Break Quick Relax Tips and Best Practices
+- ✓ Article word count OK: Everything You Need to Know About Beginner Lunch Break Quick Relax: Everything You Need to Know
+- ✓ Article word count OK: Common Mistakes in Advanced Lunch Break Quick Relax: From Beginner to Expert
+- ✓ Article word count OK: The Future of Advanced Lunch Break Quick Relax Tips and Best Practices: What to Expect
+- ✓ Article word count OK: The Future of Advanced Advanced Lunch Break Quick Relax Techniques: What to Expect
+- ✓ Article word count OK: Future of Advanced Lunch Break Quick Relax: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Future of Advanced Lunch Break Quick Relax
+- ✓ Article word count OK: Why Advanced Lunch Break Quick Relax for Beginners is Trending in 2026
+- ✓ Article word count OK: The Ultimate Guide to Future of Advanced Lunch Break Quick Relax
+- ✓ Article word count OK: Mastering Advanced Lunch Break Quick Relax for Beginners in Easy Steps
+- ✓ Article word count OK: The Hidden Secrets of Advanced Lunch Break Quick Relax
+- ✓ Article word count OK: Common Mistakes in Advanced Lunch Break Quick Relax: Must-Read Insights and Reviews
+- ✓ Article word count OK: Why Advanced Lunch Break Quick Relax Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: Understanding Advanced Advanced Lunch Break Quick Relax Techniques: A Deep Dive
+- ✓ Article word count OK: Why Advanced Lunch Break Quick Relax: Everything You Need to Know is Trending in 2026
+- ✓ Article word count OK: Advanced Lunch Break Quick Relax: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Advanced Lunch Break Quick Relax: From Beginner to Expert
+- ✓ Article word count OK: The Ultimate Guide to Future of Advanced Lunch Break Quick Relax
+- ✓ Article word count OK: The Ultimate Guide to Future of Advanced Lunch Break Quick Relax
+- ✓ Article word count OK: Advanced Lunch Break Quick Relax: Everything You Need to Know: From Beginner to Expert
+- ✓ Article word count OK: Exploring the World of Lunch Break Quick Relax Tips: Everything You Need to Know
+- ✓ Article word count OK: The Future of Lunch Break Quick Relax Tips: What to Expect
+- ✓ Article word count OK: Understanding Future of Lunch Break Quick Relax Tips: A Deep Dive
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tips in Easy Steps
+- ✓ Article word count OK: Lunch Break Quick Relax Tips in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tips Tips and Best Practices in Easy Steps
+- ✓ Article word count OK: Essential Lunch Break Quick Relax Tips in 2026: Current Trends Techniques You Should Know
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tips: Everything You Need to Know in Easy Steps
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tips in Easy Steps
+- ✓ Article word count OK: The Best Resources for Future of Lunch Break Quick Relax Tips
+- ✓ Article word count OK: Mastering The History of Lunch Break Quick Relax Tips in Easy Steps
+- ✓ Article word count OK: Understanding Lunch Break Quick Relax Tips: A Deep Dive
+- ✓ Article word count OK: The Future of Advanced Lunch Break Quick Relax Tips Techniques: What to Expect
+- ✓ Article word count OK: The History of Lunch Break Quick Relax Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Hidden Secrets of Future of Lunch Break Quick Relax Tips
+- ✓ Article word count OK: Proven Strategies for Lunch Break Quick Relax Tips for Beginners
+- ✓ Article word count OK: Exploring the World of Lunch Break Quick Relax Tips in 2026: Current Trends
+- ✓ Article word count OK: The Future of Lunch Break Quick Relax Tips: Everything You Need to Know: What to Expect
+- ✓ Article word count OK: The Ultimate Guide to Advanced Lunch Break Quick Relax History Techniques
+- ✓ Article word count OK: Everything You Need to Know About Lunch Break Quick Relax History Tips and Best Practices
+- ✓ Article word count OK: Why Lunch Break Quick Relax History: Everything You Need to Know is Trending in 2026
+- ✓ Article word count OK: The Future of Lunch Break Quick Relax History: What to Expect
+- ✓ Article word count OK: Lunch Break Quick Relax History Tips and Best Practices: From Beginner to Expert
+- ✓ Article word count OK: The Hidden Secrets of Lunch Break Quick Relax History in 2026: Current Trends
+- ✓ Article word count OK: Future of Lunch Break Quick Relax History: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Understanding Future of Lunch Break Quick Relax History: A Deep Dive
+- ✓ Article word count OK: Mastering Advanced Lunch Break Quick Relax History Techniques in Easy Steps
+- ✓ Article word count OK: Understanding Common Mistakes in Lunch Break Quick Relax History: A Deep Dive
+- ✓ Article word count OK: Understanding The History of Lunch Break Quick Relax History: A Deep Dive
+- ✓ Article word count OK: Understanding Advanced Lunch Break Quick Relax History Techniques: A Deep Dive
+- ✓ Article word count OK: Proven Strategies for Lunch Break Quick Relax History
+- ✓ Article word count OK: Proven Strategies for Lunch Break Quick Relax History for Beginners
+- ✓ Article word count OK: Mastering Common Mistakes in Lunch Break Quick Relax History in Easy Steps
+- ✓ Article word count OK: The Future of The History of Lunch Break Quick Relax History: What to Expect
+- ✓ Article word count OK: Lunch Break Quick Relax History in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Lunch Break Quick Relax History
+- ✓ Article word count OK: The History of Trending Lunch Break Quick Relax: From Beginner to Expert
+- ✓ Article word count OK: Mastering Trending Lunch Break Quick Relax in Easy Steps
+- ✓ Article word count OK: Trending Lunch Break Quick Relax: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Essential Trending Lunch Break Quick Relax for Beginners Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for Trending Lunch Break Quick Relax for Beginners
+- ✓ Article word count OK: The Future of Advanced Trending Lunch Break Quick Relax Techniques: What to Expect
+- ✓ Article word count OK: The Ultimate Guide to The History of Trending Lunch Break Quick Relax
+- ✓ Article word count OK: The Ultimate Guide to The History of Trending Lunch Break Quick Relax
+- ✓ Article word count OK: Why Trending Lunch Break Quick Relax Tips and Best Practices is Trending in 2026
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Trending Lunch Break Quick Relax
+- ✓ Article word count OK: Essential Trending Lunch Break Quick Relax in 2026: Current Trends Techniques You Should Know
+- ✓ Article word count OK: Exploring the World of Advanced Trending Lunch Break Quick Relax Techniques
+- ✓ Article word count OK: Why Trending Lunch Break Quick Relax for Beginners is Trending in 2026
+- ✓ Article word count OK: Understanding The History of Trending Lunch Break Quick Relax: A Deep Dive
+- ✓ Article word count OK: Why Trending Lunch Break Quick Relax: Everything You Need to Know is Trending in 2026
+- ✓ Article word count OK: Mastering Trending Lunch Break Quick Relax in Easy Steps
+- ✓ Article word count OK: Future of Trending Lunch Break Quick Relax 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Hidden Secrets of Trending Lunch Break Quick Relax for Beginners
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Lunch Break Quick Relax Tutorials
+- ✓ Article word count OK: The Future of Lunch Break Quick Relax Tutorials in 2026: Current Trends: What to Expect
+- ✓ Article word count OK: Exploring the World of Lunch Break Quick Relax Tutorials
+- ✓ Article word count OK: Advanced Lunch Break Quick Relax Tutorials Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: The History of Lunch Break Quick Relax Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Hidden Secrets of Future of Lunch Break Quick Relax Tutorials
+- ✓ Article word count OK: The Ultimate Guide to Common Mistakes in Lunch Break Quick Relax Tutorials
+- ✓ Article word count OK: Mastering The History of Lunch Break Quick Relax Tutorials in Easy Steps
+- ✓ Article word count OK: Lunch Break Quick Relax Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Future of Common Mistakes in Lunch Break Quick Relax Tutorials: What to Expect
+- ✓ Article word count OK: The Future of Lunch Break Quick Relax Tutorials: What to Expect
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tutorials: Everything You Need to Know in Easy Steps
+- ✓ Article word count OK: Mastering Lunch Break Quick Relax Tutorials in Easy Steps
+- ✓ Article word count OK: Everything You Need to Know About Future of Lunch Break Quick Relax Tutorials
+- ✓ Article word count OK: The Hidden Secrets of Lunch Break Quick Relax Tutorials in 2026: Current Trends
+- ✓ Article word count OK: The Ultimate Guide to Lunch Break Quick Relax Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Advanced Lunch Break Quick Relax Tutorials Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Future of Lunch Break Quick Relax Tutorials
+- ✓ Ad configuration validated

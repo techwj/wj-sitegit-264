@@ -1,0 +1,59 @@
+{
+  "siteId": "lunch-break-quick-relax",
+  "generatedAt": "2026-06-05T14:20:10.359881",
+  "categories": [
+    "beginner-lunch-break-quick-relax",
+    "advanced-lunch-break-quick-relax",
+    "tips-lunch-break-quick-relax",
+    "history-lunch-break-quick-relax",
+    "trending-lunch-break-quick-relax",
+    "tutorials-lunch-break-quick-relax"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-lunch-break-quick-relax",
+      "category_name": "Beginner Lunch Break Quick Relax"
+    },
+    {
+      "category_slug": "advanced-lunch-break-quick-relax",
+      "category_name": "Advanced Lunch Break Quick Relax"
+    },
+    {
+      "category_slug": "tips-lunch-break-quick-relax",
+      "category_name": "Lunch Break Quick Relax Tips"
+    },
+    {
+      "category_slug": "history-lunch-break-quick-relax",
+      "category_name": "Lunch Break Quick Relax History"
+    },
+    {
+      "category_slug": "trending-lunch-break-quick-relax",
+      "category_name": "Trending Lunch Break Quick Relax"
+    },
+    {
+      "category_slug": "tutorials-lunch-break-quick-relax",
+      "category_name": "Lunch Break Quick Relax Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "lunch-break-quick-relax",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered-narrow",
+    "site_title": "Lunch Break Quick Relax Central",
+    "articles_per_row": 4
+  }
+}
